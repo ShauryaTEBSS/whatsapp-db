@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "whatsapp-db",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "dynextron-whatsapp-db",
+			"database_id": "642146af-3229-4270-8cf5-7655695aad32"
+		}
+	]
+}
